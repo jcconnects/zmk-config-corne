@@ -11,8 +11,8 @@
 
 
 / {
-        &out OUT_BLE
         keymap {
+                &out OUT_BLE
                 compatible = "zmk,keymap";
 
                 default_layer {
